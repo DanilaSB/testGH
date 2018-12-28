@@ -17,6 +17,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         //еще добавил строчку
+        //внес изменения
         int size = 3;
         fill(size);
         printMap();
